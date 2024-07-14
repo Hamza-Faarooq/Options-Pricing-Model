@@ -34,7 +34,7 @@ The output should include a DataFrame displaying bid prices and the calculated o
 6. **Create DataFrame**: Combine bid prices and calculated option prices into a DataFrame.
 7. **Display and Plot Results**: Print the DataFrame and plot the prices for visualization.
 
-## Code
+## Raw Code
 ```python
 # Setup Environment
 !pip install numpy scipy matplotlib pandas
